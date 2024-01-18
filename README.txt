@@ -12,7 +12,7 @@ WordPress plugin that uses a shortcode to display the Workout of the Day from Su
 
 == Description ==
 
-SugarWOD provides a helpful script for including the Workout of the Day (WOD) on your gym's website. Unfortunately, this script isn't easy to modify and looks out of place on most websites. This Crossfit Minot SugarWOD WordPress plugin provides a shortcode that can be used to display the WOD on your gym's WordPress website easily. By using the shortcode [cfmsugarwod], the plugin will get the gym's WOD and display it on the page or post.
+SugarWOD (https://www.sugarwod.com/) provides a helpful script for including the Workout of the Day (WOD) on your gym's website. Unfortunately, this script isn't easy to modify and looks out of place on most websites. This Crossfit Minot SugarWOD WordPress plugin provides a shortcode that can be used to display the WOD on your gym's WordPress website easily. By using the shortcode [cfmsugarwod], the plugin will get the gym's WOD and display it on the page or post.
 
 == Installation ==
 
