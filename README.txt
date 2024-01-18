@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Crossfit Minot SugarWOD ===
 Contributors: dylan.hildenbrand
 Donate link: https://www.closingtags.com/
 Tags: comments, spam
@@ -16,18 +16,24 @@ SugarWOD provides a helpful script for including the Workout of the Day (WOD) on
 
 == Installation ==
 
-1. Upload `cfmsugarwod.zip` to the `/wp-content/plugins/` directory
-1. Upload `cfmsugarwod.zip` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+1. Download the zip file of this repository at https://github.com/Dilden/Crossfit-Minot-SugarWOD/zipball/master
+2. Upload `cfmsugarwod.zip` to your gym's WordPress website by adding a new plugin, then going to upload. 
+3. Activate the plugin through the 'Plugins' menu in WordPress
+4. Navigate to Settings > Crossfit Minot SugarWOD
+5. Enter your SugarWOD Affiliate ID (API Key is not necessary at this time)
+6. Open the page or post you would like to display your WOD and enter the shortcode [cfmsugarwod]
+7. Save the page/post and view it!
 
 == Frequently Asked Questions ==
 
-= A question that someone might have =
+= Do I need to use the API Key field? =
 
-An answer to that question.
+Not at this time.
 
-= What about foo bar? =
+= Can I customize the display of the WOD? =
 
-Answer to foo bar dilemma.
+Not at this time.
 
+= Can you help me with this? =
+
+Sure! Contact me by filling out the form at https://www.closingtags.com/contact
