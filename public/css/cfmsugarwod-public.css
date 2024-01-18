@@ -1,0 +1,24 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+body .cfmsugarwod_content h2, .cfmsugarwod_content p {
+  text-transform: uppercase;
+  text-align: center;
+}
+.cfmsugarwod_workouts {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto;
+  justify-content: space-evenly;
+  justify-items: center;
+  align-content: center;
+}
+
+@media screen and (max-width: 925px) {
+  .cfmsugarwod_workouts {
+    grid-template-columns: 1fr;
+    justify-items: stretch;
+  }
+}
